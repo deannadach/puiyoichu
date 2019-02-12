@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aisoota.eoinisawesome.com/sitemap.xml
